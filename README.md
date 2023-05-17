@@ -1,16 +1,32 @@
-# testy
+# Flutter Ninja ID Card
 
-A new Flutter project.
+This Flutter project creates a Ninja ID card using various Flutter widgets and features. The project utilizes row and column layouts, SVG icons, CircleAvatar widget, image imports, and custom fonts.
+
+![Ninja ID Card](assets/screenshots/1.png)
+
+## Features
+
+- Displays a Ninja ID card with the following information:
+  - Name
+  - Rank
+  - Mail
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before running the project, ensure that you have Flutter installed on your development machine. If you haven't installed Flutter yet, please follow the official installation guide: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/hakimbhb/flutter-ninja-id-card.git
+
+
+### Acknowledgements
+Feel free to modify and customize the README file according to your project's specific details and needs.
+# flutter-ninja-id-card
+# flutter-ninja-id-card
+# flutter-ninja-id-card
